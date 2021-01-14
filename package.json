@@ -1,0 +1,19 @@
+{
+  "name": "resubmit-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.5",
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "grpc": "^1.24.4"
+  }
+}
